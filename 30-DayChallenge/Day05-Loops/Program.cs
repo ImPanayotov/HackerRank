@@ -6,7 +6,7 @@ namespace Day05_Loops
     {
         static void Main(string[] args)
         {
-            //testing
+            //testing2
             int n = Convert.ToInt32(Console.ReadLine());
 
             for (int i = 1; i <= 10; i++)
