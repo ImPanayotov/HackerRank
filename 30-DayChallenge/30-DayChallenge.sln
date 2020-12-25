@@ -51,6 +51,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day22-BinarySearchTrees", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day23-BSTLevelOrderTraversal", "Day23-BSTLevelOrderTraversal\Day23-BSTLevelOrderTraversal.csproj", "{6595FB5B-2743-4F96-8A64-0D759EFE01DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day24-MoreLinkedLists", "Day24-MoreLinkedLists\Day24-MoreLinkedLists.csproj", "{F7F84DD6-EE1F-481E-9B6D-243F87F6D530}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day25-RunningTimeAndComplexity", "Day25-RunningTimeAndComplexity\Day25-RunningTimeAndComplexity.csproj", "{835223C9-0C67-49A2-96AF-424EF64915C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +157,14 @@ Global
 		{6595FB5B-2743-4F96-8A64-0D759EFE01DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6595FB5B-2743-4F96-8A64-0D759EFE01DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6595FB5B-2743-4F96-8A64-0D759EFE01DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7F84DD6-EE1F-481E-9B6D-243F87F6D530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F84DD6-EE1F-481E-9B6D-243F87F6D530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F84DD6-EE1F-481E-9B6D-243F87F6D530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F84DD6-EE1F-481E-9B6D-243F87F6D530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{835223C9-0C67-49A2-96AF-424EF64915C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{835223C9-0C67-49A2-96AF-424EF64915C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{835223C9-0C67-49A2-96AF-424EF64915C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{835223C9-0C67-49A2-96AF-424EF64915C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
